@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(109, 106, 106);
+}
+
+header {
+    
+    text-align: center;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+header img {
+    
+}
+
+main {
+    max-width: 500px;
+   
+}
+
+footer {
+    text-align: center;
+}
